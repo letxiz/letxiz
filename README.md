@@ -28,5 +28,5 @@ Tenho interesse em colocar meus conhecimentos em prática, participar de projeto
 - **Segurança em Tecnologia da Informação** – Fundação Bradesco  
 
 ## 📫 Como me encontrar
-- GitHub: [@letxiz](https://github.com/letxiz)  
+- Instagram: [@lekkkaxis](https://www.instagram.com/lekkkaxis/)
 - LinkedIn: [Leticia Alves](https://www.linkedin.com/in/leticia954/)  
