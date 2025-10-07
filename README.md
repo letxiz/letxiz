@@ -1,10 +1,15 @@
 👋 Olá! Sou Letícia Alves
 
-Estudante de Análise e Desenvolvimento de Sistemas em Boa Vista, Roraima. Minha paixão é transformar ideias em código, e tenho me especializado em Java, Front-End (HTML, CSS, JS) e desenvolvimento mobile.
+📍 Boa Vista, Roraima – Brasil
 
-Atualmente, faço parte do projeto BioStart, um protótipo de aplicativo e sistema web que une tecnologia e sustentabilidade para educação.
+👩‍💻 Sobre Mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonada por transformar ideias em código. Tenho interesse em Java, Front-End (HTML, CSS, JS) e desenvolvimento Mobile.
+
+Atualmente participo do projeto BioStart, um protótipo de aplicativo e sistema web que une tecnologia e sustentabilidade para fins educativos.
 
 💻 Minhas Habilidades
+
 Linguagens: Java, JavaScript, TypeScript
 
 Front-End: HTML, CSS
@@ -16,12 +21,18 @@ Back-End: Node.js
 Banco de Dados: PostgreSQL
 
 📂 Projetos em Destaque
-Sistemas em Java: Coleção de projetos que incluem um sistema de gerenciamento de estoque e um controle de alunos.
 
-Lanchonete: Sistema de controle de pedidos, com funcionalidades de cadastro de produtos e emissão de pedidos.
+Sistemas em Java
+ – coleção de projetos em Java, incluindo sistema de gerenciamento de estoque e controle de alunos.
 
-Projeto Node: Um projeto didático para a prática de criação de servidores, módulos e rotas.
+Lanchonete
+ – sistema de controle de pedidos, com cadastro de produtos e envio de pedidos.
 
-📫 Conecte-se Comigo!
+Projeto Node
+ – projeto didático para prática de criação de servidores, módulos e rotas.
+
+📫 Conecte-se Comigo
+
 🌐 LinkedIn – [Leticia Alves](https://www.linkedin.com/in/leticia954/)
+
 📸 Instagram – [@lekkkaxis](https://www.instagram.com/lekkkaxis/)
