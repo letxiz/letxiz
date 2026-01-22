@@ -11,7 +11,7 @@ Tenho afinidade com **Java**, **Front-End (HTML, CSS, JavaScript)** e **desenvol
 
 Atualmente participo do projeto **BioStart**, um protótipo de **aplicativo mobile e sistema web educativo**, voltado à **sustentabilidade e ao uso do biogás**, desenvolvido no contexto acadêmico.
 
-No momento, estou estudando **Dart e Flutter** para desenvolvimento de aplicativos **mobile multiplataforma**.
+No momento, estou estudando **Dart, Flutter e Python**, com foco em ampliar minhas habilidades em **desenvolvimento mobile e lógica de programação**.
 
 ---
 
@@ -26,9 +26,10 @@ No momento, estou estudando **Dart e Flutter** para desenvolvimento de aplicativ
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📚 Em  aprendizado
+### 📚 Em aprendizado
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
