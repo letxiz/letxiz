@@ -1,17 +1,25 @@
 # 👋 Olá! Eu sou a Letícia Alves
 
 📍 Boa Vista, Roraima – Brasil  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
 
 ## 👩‍💻 Sobre mim
-Sou estudante de ADS com interesse em **desenvolvimento de software** e foco em aprendizado contínuo.  
-Tenho afinidade com **Java**, **Front-End (HTML, CSS, JavaScript)** e **desenvolvimento Mobile**, buscando evoluir tanto no back-end quanto no front-end.
+Sou estudante de ADS com foco em desenvolvimento de software e aprendizado contínuo.  
+Tenho maior afinidade com **Java** e venho expandindo meus conhecimentos em **Front-End** e **Desenvolvimento Mobile**.
 
-Atualmente participo do projeto **BioStart**, um protótipo de **aplicativo mobile e sistema web educativo**, voltado à **sustentabilidade e ao uso do biogás**, desenvolvido no contexto acadêmico.
+Gosto de aprender construindo projetos práticos e protótipos, explorando tanto lógica quanto interface.  
+Atualmente estudo **Dart, Flutter e Python**, além de fundamentos de banco de dados e arquitetura de sistemas.
 
-No momento, estou estudando **Dart, Flutter e Python**, com foco em ampliar minhas habilidades em **desenvolvimento mobile e lógica de programação**.
+Participo de projeto acadêmico voltado à criação de solução educativa digital envolvendo aplicativo mobile e sistema web.
+
+Tenho interesse em:
+- 📱 Desenvolvimento mobile
+- 🌐 Aplicações web
+- ☕ Programação orientada a objetos
+- 🗄️ Banco de dados
+- 🧩 Lógica e estrutura de sistemas
 
 ---
 
@@ -33,31 +41,5 @@ No momento, estou estudando **Dart, Flutter e Python**, com foco em ampliar minh
 
 ---
 
-## 📂 Projetos em Destaque
-
-🔹 **[Sistemas em Java](https://github.com/letxiz/Sistemas-em-Java)**  
-Projetos acadêmicos em Java, incluindo:
-- Sistema de gerenciamento de estoque  
-- Controle de alunos  
-
-🔹 **[Lanchonete](https://github.com/letxiz/Lanchonete)**  
-Sistema de controle de pedidos com:
-- Cadastro de produtos  
-- Registro e gerenciamento de pedidos  
-
-🔹 **[Projeto Node](https://github.com/letxiz/projetonode)**  
-Projeto didático focado em:
-- Criação de servidores  
-- Rotas e módulos  
-- Fundamentos do Node.js  
-
----
-
-## 🎯 Objetivo
-Busco oportunidades de **estágio** ou **aprendizado prático** na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, aprender novas tecnologias e evoluir como desenvolvedora.
-
----
-
-## 📫 Vamos nos conectar?
+## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia954/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lekkkaxis/)
