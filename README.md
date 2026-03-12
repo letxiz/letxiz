@@ -1,45 +1,36 @@
-# 👋 Olá! Eu sou a Letícia Alves
+# Olá! Seja bem-vindo(a) ao meu perfil
 
-📍 Boa Vista, Roraima – Brasil  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+Meu nome é Leticia Alves e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Roraima. Tenho interesse em desenvolvimento web e mobile e gosto de explorar diferentes tecnologias enquanto construo minha base na programação.
+
+Atualmente estou estudando JavaScript, React e Node.js, além de aprofundar meus conhecimentos nos fundamentos das tecnologias e na leitura da documentação para entender melhor como cada ferramenta funciona.
+
+Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área de tecnologia.
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letxiz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=radical)
 
 ---
 
-## 👩‍💻 Sobre mim
-Sou estudante de ADS com foco em desenvolvimento de software e aprendizado contínuo.  
-Tenho maior afinidade com **Java** e venho expandindo meus conhecimentos em **Front-End** e **Desenvolvimento Mobile**.
+## Skills
 
-Gosto de aprender construindo projetos práticos e protótipos, explorando tanto lógica quanto interface.  
-Atualmente estudo **Dart, Flutter e Python**, além de fundamentos de banco de dados e arquitetura de sistemas.
-
-Participo de projeto acadêmico voltado à criação de solução educativa digital envolvendo aplicativo mobile e sistema web.
-
-Tenho interesse em:
-- 📱 Desenvolvimento mobile
-- 🌐 Aplicações web
-- ☕ Programação orientada a objetos
-- 🗄️ Banco de dados
-- 🧩 Lógica e estrutura de sistemas
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 💻 Tecnologias & Habilidades
+## Contato
 
-### 🚀 Linguagens e Ferramentas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📚 Em aprendizado
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia954/)
+📧 Email: [letxizalves@gmail.com](mailto:letxizalves@gmail.com)  
+💼 LinkedIn: https://www.linkedin.com/in/leticia954/
