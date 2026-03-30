@@ -29,9 +29,9 @@ Aplicação web inspirada na Netflix, que permite ao usuário selecionar perfis 
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=letxiz&show_icons=true&theme=tokyonight&locale=pt-br" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=tokyonight&locale=pt-br" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letxiz&theme=tokyonight&locale=pt-br" />
 </p>
 
 ---
