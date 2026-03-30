@@ -12,19 +12,19 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 ### 1. Linktree - Personal Page
 
-Uma página web desenvolvida com HTML e CSS para centralizar links pessoais como portfólio, redes sociais e projetos. A aplicação facilita o acesso às minhas informações em um único lugar, com uma interface simples, organizada e responsiva.
+Página para centralizar links pessoais (portfólio, redes e projetos) com interface simples e responsiva.
 
 - Tecnologias: HTML5, CSS3
-- Funcionalidades: centralização de links importantes, layout limpo e organizado, design responsivo, navegação rápida e intuitiva
+- Funcionalidades: links centralizados, layout limpo e navegação intuitiva
 - Acesse o projeto: https://letxiz.github.io/linktree/
 
 ### 2. LETFLIX
 
-Aplicação web inspirada na Netflix, que permite ao usuário selecionar perfis e navegar por um catálogo personalizado de filmes e séries. Cada perfil possui conteúdos diferentes, simulando uma experiência real de streaming.
+Aplicação inspirada na Netflix com perfis, catálogo personalizado e busca de filmes/séries em tempo real.
 
 - Tecnologias: HTML5, CSS3, JavaScript (ES6+), API TMDB
-- Funcionalidades: seleção e criação de perfis, gerenciamento de perfis, intro animada, catálogo dinâmico, busca integrada, preferências por gênero, Minha Lista interativa, notificações por perfil, responsividade, persistência com localStorage/sessionStorage e recursos de acessibilidade
-- Destaque técnico: integração com API TMDB para busca de filmes e séries em tempo real
+- Funcionalidades: criação/gerenciamento de perfis, intro animada, Minha Lista, notificações, responsividade e persistência
+- Destaque técnico: integração com API TMDB
 - Acesse o projeto: https://letxiz.github.io/letflix-clone-netflix/
 
 ## GitHub Stats
@@ -43,11 +43,7 @@ Aplicação web inspirada na Netflix, que permite ao usuário selecionar perfis 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
