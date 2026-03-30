@@ -11,8 +11,6 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 📧 Email: [letxizalves@gmail.com](mailto:letxizalves@gmail.com)  
 💼 LinkedIn: https://www.linkedin.com/in/leticia954/
----
-
 
 ## Projetos em destaque
 
