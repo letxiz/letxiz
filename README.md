@@ -40,7 +40,7 @@ Aplicação inspirada na Netflix com perfis, catálogo personalizado e busca de 
 ## GitHub Stats
 ![Stats](https://github-readme-stats-one.vercel.app/api?username=letxiz&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&hide_progress=true)
 ---
 
 ## Skills
