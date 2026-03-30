@@ -5,7 +5,27 @@ Meu nome é Leticia Alves e sou estudante de Análise e Desenvolvimento de Siste
 Atualmente estou estudando JavaScript, React e Node.js, além de aprofundar meus conhecimentos nos fundamentos das tecnologias e na leitura da documentação para entender melhor como cada ferramenta funciona.
 
 Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área de tecnologia.
+
 ---
+
+## Projetos em destaque
+
+### 1. Linktree - Personal Page
+
+Uma página web desenvolvida com HTML e CSS para centralizar links pessoais como portfólio, redes sociais e projetos. A aplicação facilita o acesso às minhas informações em um único lugar, com uma interface simples, organizada e responsiva.
+
+- Tecnologias: HTML5, CSS3
+- Funcionalidades: centralização de links importantes, layout limpo e organizado, design responsivo, navegação rápida e intuitiva
+- Acesse o projeto: https://letxiz.github.io/linktree/
+
+### 2. LETFLIX
+
+Aplicação web inspirada na Netflix, que permite ao usuário selecionar perfis e navegar por um catálogo personalizado de filmes e séries. Cada perfil possui conteúdos diferentes, simulando uma experiência real de streaming.
+
+- Tecnologias: HTML5, CSS3, JavaScript (ES6+), API TMDB
+- Funcionalidades: seleção e criação de perfis, gerenciamento de perfis, intro animada, catálogo dinâmico, busca integrada, preferências por gênero, Minha Lista interativa, notificações por perfil, responsividade, persistência com localStorage/sessionStorage e recursos de acessibilidade
+- Destaque técnico: integração com API TMDB para busca de filmes e séries em tempo real
+- Acesse o projeto: https://letxiz.github.io/letflix-clone-netflix/
 
 ## GitHub Stats
 <p align="center">
