@@ -7,6 +7,12 @@
 Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área de tecnologia.
 
 ---
+## Contato
+
+📧 Email: [letxizalves@gmail.com](mailto:letxizalves@gmail.com)  
+💼 LinkedIn: https://www.linkedin.com/in/leticia954/
+---
+
 
 ## Projetos em destaque
 
@@ -45,9 +51,6 @@ Aplicação inspirada na Netflix com perfis, catálogo personalizado e busca de 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-## Contato
 
-📧 Email: [letxizalves@gmail.com](mailto:letxizalves@gmail.com)  
-💼 LinkedIn: https://www.linkedin.com/in/leticia954/
+
