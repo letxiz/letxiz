@@ -6,15 +6,12 @@
 
 Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área de tecnologia.
 
----
-## Contato
-
-<div>
+<div align="center">
   <a href="mailto:letxizalves@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://www.linkedin.com/in/leticia954/" target="_blank">
+  <a href="https://www.linkedin.com/in/leticia954/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
