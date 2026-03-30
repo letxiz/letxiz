@@ -1,20 +1,10 @@
 # 👩‍💻 Leticia Alves
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFRR  
-- 💻 Focada em desenvolvimento web e mobile  
+- Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Roraima. Tenho interesse em desenvolvimento web e mobile e gosto de explorar diferentes tecnologias enquanto construo minha base em programação.
 
-- 📚 Atualmente estudando:
-  - JavaScript
-  - React
-  - Node.js  
+- Atualmente, estudo JavaScript, React e Node.js, buscando também aprofundar meus conhecimentos nos fundamentos e na leitura da documentação para compreender melhor o funcionamento de cada ferramenta.
 
-- 🧠 Objetivo:
-  Consolidar minha base em programação aplicando diferentes tecnologias na prática  
-
-- 🚀 Interesses:
-  Desenvolvimento web, mobile e criação de projetos  
-
-- 📈 Em constante evolução na área de tecnologia
+Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área de tecnologia.
 
 ---
 
