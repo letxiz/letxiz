@@ -38,12 +38,9 @@ Aplicação inspirada na Netflix com perfis, catálogo personalizado e busca de 
 - Acesse o projeto: https://letxiz.github.io/letflix-clone-netflix/
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=letxiz&show_icons=true&theme=tokyonight&locale=pt-br" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letxiz&theme=tokyonight&locale=pt-br" />
-</p>
+![Stats](https://github-readme-stats-one.vercel.app/api?username=letxiz&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=tokyonight)
 ---
 
 ## Skills
