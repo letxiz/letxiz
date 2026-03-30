@@ -6,6 +6,8 @@
 
 Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área de tecnologia.
 
+## 📬 Contato
+
 <div align="center">
   <a href="mailto:letxizalves@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
