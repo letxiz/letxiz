@@ -9,11 +9,11 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letxiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=letxiz&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
