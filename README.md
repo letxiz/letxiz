@@ -9,9 +9,20 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letxiz&show_icons=true&theme=radical)
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letxiz&show_icons=true&theme=radical&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=radical&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=radical)
+</div>
+
+<div align="center">
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=letxiz&theme=radical&hide_border=true"/>
+
+</div>
+
 
 ---
 
