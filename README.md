@@ -34,13 +34,19 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=letxiz&show_icons=true&theme=tokyonight&locale=pt-br"/>
+<div align="center">
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=letxiz&show_icons=true&theme=tokyonight&locale=pt-br"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=letxiz&theme=tokyonight&locale=pt-br"/>
-</p>
+<br><br>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=letxiz&theme=tokyonight&locale=pt-br"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 ## Skills
