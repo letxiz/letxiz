@@ -18,24 +18,19 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
   </a>
 </div>
 
+
+<div align="center">
+  
 ## Projetos em destaque
 
-### 1. 🔗 Linktree - Personal Page
+| Projeto | Descrição | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **LETFLIX** | Clone inspirado na Netflix com perfis, catálogo personalizado, busca em tempo real e integração com API. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> | [Deploy](https://letxiz.github.io/letflix-clone-netflix/) \| [Repo](https://github.com/letxiz/letflix-clone-netflix) |
+| **Linktree** | Página pessoal responsiva para centralizar links, redes sociais e projetos. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> | [Deploy](https://letxiz.github.io/linktree/) \| [Repo](https://github.com/letxiz/linktree) |
+| **TaskApp** | Aplicativo de gerenciamento de tarefas com melhorias visuais e interface moderna. | <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/> | [Repo](https://github.com/letxiz/taskapp-react-native) |
+| **BioStart** | Protótipo educacional sobre biogás com proposta mobile e web. | <img src="https://img.shields.io/badge/Mobile-green"/> <img src="https://img.shields.io/badge/Web-blue"/> | [Repo](https://github.com/letxiz/BioStart) |
 
-Página para centralizar links pessoais (portfólio, redes e projetos) com interface simples e responsiva.
-
-- Tecnologias: HTML5, CSS3
-- Funcionalidades: links centralizados, layout limpo e navegação intuitiva
-- Acesse o projeto: https://letxiz.github.io/linktree/
-
-### 2. 🎬 LETFLIX
-
-Aplicação inspirada na Netflix com perfis, catálogo personalizado e busca de filmes/séries em tempo real.
-
-- Tecnologias: HTML5, CSS3, JavaScript (ES6+), API TMDB
-- Funcionalidades: criação/gerenciamento de perfis, intro animada, Minha Lista, notificações, responsividade e persistência
-- Destaque técnico: integração com API TMDB
-- Acesse o projeto: https://letxiz.github.io/letflix-clone-netflix/
+</div>
 
 ## GitHub Stats
 <p align="center">
