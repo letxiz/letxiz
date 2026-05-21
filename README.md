@@ -44,7 +44,7 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letxiz&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=letxiz&theme=tokyonight&row=1&column=3"/>
 
 </div>
 
