@@ -42,10 +42,6 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=letxiz&theme=tokyonight&locale=pt-br"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=letxiz&theme=tokyonight&row=1&column=3"/>
-
 </div>
 
 <div align="center">
@@ -58,16 +54,7 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 ---
 ## Skills
+
 <p align="center">
-
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,postgres&theme=dark" alt="Ícones de tecnologias" />
 </p>
-
-
