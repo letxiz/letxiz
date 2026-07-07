@@ -48,6 +48,14 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letxiz/letxiz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/letxiz/letxiz/output/github-contribution-grid-snake.svg">
+    <img alt="Animação snake das contribuições do GitHub" src="https://raw.githubusercontent.com/letxiz/letxiz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 ## Skills
 <p align="center">
