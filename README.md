@@ -1,38 +1,56 @@
-# 👩‍💻 Leticia Alves
-
-- Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Roraima. Tenho interesse em desenvolvimento web e mobile e gosto de explorar diferentes tecnologias enquanto construo minha base em programação.
-
-- Atualmente, estudo JavaScript, React e Node.js, buscando também aprofundar meus conhecimentos nos fundamentos e na leitura da documentação para compreender melhor o funcionamento de cada ferramenta.
-
-Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área de tecnologia.
-
-## 📬 Contato
-
 <div align="center">
-  <a href="mailto:letxizalves@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/leticia954/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+
+# Letícia Alves
+
+**Software Developer**
+
+Full Stack • DevOps • Open Source Learning
 </div>
 
+---
 
 <div align="center">
-  
-## Projetos em destaque
 
-| Projeto | Descrição | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **LETFLIX** | Clone inspirado na Netflix com perfis, catálogo personalizado, busca em tempo real e integração com API. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> | [Deploy](https://letxiz.github.io/letflix-clone-netflix/) \| [Repo](https://github.com/letxiz/letflix-clone-netflix) |
-| **Linktree** | Página pessoal responsiva para centralizar links, redes sociais e projetos. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> | [Deploy](https://letxiz.github.io/linktree/) \| [Repo](https://github.com/letxiz/linktree) |
-| **TaskApp** | Aplicativo de gerenciamento de tarefas com melhorias visuais e interface moderna. | <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/> | [Repo](https://github.com/letxiz/taskapp-react-native) |
-| **BioStart** | Protótipo educacional sobre biogás com proposta mobile e web. | <img src="https://img.shields.io/badge/Mobile-green"/> <img src="https://img.shields.io/badge/Web-blue"/> | [Repo](https://github.com/letxiz/BioStart) |
+## About Me
+
+Sou Desenvolvedora de Software e estudante de Análise e Desenvolvimento de Sistemas no IFRR.
+
+Gosto de aprender como as aplicações funcionam por completo. Além de desenvolver software, também tenho interesse por infraestrutura, automação e pelas tecnologias que fazem parte do ciclo de vida de uma aplicação.
+
+Aqui no GitHub compartilho projetos, estudos e documentações que refletem minha evolução como desenvolvedora. Estou sempre buscando aprender novas tecnologias, enfrentar desafios e colocar esse aprendizado em prática.
 
 </div>
 
-## GitHub Stats
+---
+
+## Featured Projects
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| **Linux Handbook** | Documentação sobre Linux, Bash, monitoramento, automação e infraestrutura. | [Repositório](https://github.com/letxiz/linux-handbook) |
+| **Git Handbook** | Guia prático sobre Git, GitHub e fluxos de versionamento. | [Repositório](https://github.com/letxiz/git-work-guide) |
+| **DevOps & Cloud** | Docker, GitHub Actions e conceitos de CI/CD. | [Repositório](https://github.com/letxiz/docker-ci-lab) |
+| **PHP Lab** | Estudos e práticas com PHP. | [Repositório](https://github.com/letxiz/php-lab) |
+| **BioStart** | Aplicativo mobile e plataforma web voltados à educação ambiental e à produção de biogás, desenvolvidos com React Native, Firebase e IA. | [Ver projeto](https://github.com/letxiz/BioStart) |
+
+---
+
+
+## Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,php,dart,flutter,react,nodejs,js,ts,html,css" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,mysql,postgres,firebase,vscode" />
+
+</div>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -44,17 +62,32 @@ Estou sempre em busca de aprender, evoluir e desenvolver novos projetos na área
 
 </div>
 
+---
+
+## Contribution Snake
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/letxiz/letxiz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/letxiz/letxiz/output/github-contribution-grid-snake.svg">
-    <img alt="Animação snake das contribuições do GitHub" src="https://raw.githubusercontent.com/letxiz/letxiz/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<img src="https://raw.githubusercontent.com/letxiz/letxiz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
 </div>
 
 ---
-## Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,postgres&theme=dark" alt="Ícones de tecnologias" />
-</p>
+## Contact
+
+<div align="center">
+
+<a href="mailto:letxizalves@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="40" alt="E-mail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/leticia954/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
+</div>
+</div>
+
+
+
