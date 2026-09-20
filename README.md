@@ -2,9 +2,9 @@
 
 # Letícia Alves
 
-**Software Developer**
+**Desenvolvedora Full Stack**
 
-Full Stack • DevOps • Open Source Learning
+Desenvolvimento de software • Infraestrutura • Automação
 </div>
 
 ---
@@ -15,9 +15,9 @@ Full Stack • DevOps • Open Source Learning
 
 Sou Desenvolvedora de Software e estudante de Análise e Desenvolvimento de Sistemas no IFRR.
 
-Gosto de aprender como as aplicações funcionam por completo. Além de desenvolver software, também tenho interesse por infraestrutura, automação e pelas tecnologias que fazem parte do ciclo de vida de uma aplicação.
+Tenho interesse em desenvolvimento de software, infraestrutura e automação. Gosto de entender como essas áreas se conectam na construção e manutenção de aplicações.
 
-Aqui no GitHub compartilho projetos, estudos e documentações que refletem minha evolução como desenvolvedora. Estou sempre buscando aprender novas tecnologias, enfrentar desafios e colocar esse aprendizado em prática.
+Neste perfil, reúno projetos que desenvolvi e materiais de estudo sobre as tecnologias que venho explorando.
 
 </div>
 
@@ -27,11 +27,11 @@ Aqui no GitHub compartilho projetos, estudos e documentações que refletem minh
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| **Linux Handbook** | Documentação sobre Linux, Bash, monitoramento, automação e infraestrutura. | [Repositório](https://github.com/letxiz/linux-handbook) |
-| **Git Handbook** | Guia prático sobre Git, GitHub e fluxos de versionamento. | [Repositório](https://github.com/letxiz/git-work-guide) |
-| **DevOps & Cloud** | Docker, GitHub Actions e conceitos de CI/CD. | [Repositório](https://github.com/letxiz/docker-ci-lab) |
-| **PHP Lab** | Estudos e práticas com PHP. | [Repositório](https://github.com/letxiz/php-lab) |
-| **BioStart** | Aplicativo mobile e plataforma web voltados à educação ambiental e à produção de biogás, desenvolvidos com React Native, Firebase e IA. | [Ver projeto](https://github.com/letxiz/BioStart) |
+| **BioStart** | Aplicativo educativo sobre biogás com simulador, trilhas de aprendizagem e quiz, desenvolvido com Expo, React Native e TypeScript. | [Repositório](https://github.com/letxiz/BioStart) |
+| **API de Tarefas** | API REST com autenticação JWT e gerenciamento de tarefas, desenvolvida com Node.js, Express e PostgreSQL. | [Repositório](https://github.com/letxiz/api-gerenciamento-tarefas) |
+| **LETFLIX** | Catálogo de filmes e séries com perfis, busca pela API TMDB e lista pessoal, desenvolvido com HTML, CSS e JavaScript. | [Repositório](https://github.com/letxiz/letflix-clone-netflix) · [Demonstração](https://letxiz.github.io/letflix-clone-netflix/) |
+
+**Estudos e documentação:** [Linux Handbook](https://github.com/letxiz/linux-handbook) · [Git Work Guide](https://github.com/letxiz/git-work-guide) · [Docker CI Lab](https://github.com/letxiz/docker-ci-lab)
 
 ---
 
@@ -88,6 +88,3 @@ Aqui no GitHub compartilho projetos, estudos e documentações que refletem minh
 
 </div>
 </div>
-
-
-
